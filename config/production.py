@@ -4,7 +4,7 @@ from logging.config import dictConfig
 
 SQLALCHEMY_DATABASE_URI = 'postgresql+psycopg2://{user}:{pw}@{url}/{db}'.format(
     user='dbmasteruser',
-    pw='-L|lVzmj=+jQm+I>`?isAq0S-E<S7-se',
+    pw='H+!(y_o*Q;q]j4Pa8E3SVF0C4X+hH0M}',
     url='ls-6ad2a389ec91d534451478e6023113103a4b9246.cypmmlwk7zug.ap-northeast-2.rds.amazonaws.com',
     db='flask_pybo')
 
